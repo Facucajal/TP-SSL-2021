@@ -1,0 +1,32 @@
+
+________________________________________________________________________________________
+
+Listado de Variables:
+
+Linea: 1   Identificador: a         ;  Tipo: int  
+Linea: 2   Identificador: b         ;  Tipo: int  
+Linea: 5   Identificador: a         ;  Tipo: int  
+Linea: 6   Identificador: b         ;  Tipo: int  
+Linea: 13  Identificador: b         ;  Tipo: int  
+Linea: 24  Identificador: c         ;  Tipo: int  
+Linea: 26  Identificador: f         ;  Tipo: int  
+________________________________________________________________________________________
+
+Listado de Funciones:
+
+Linea: 4  Funcion: main           ;  Tipo: int
+Linea: 22  Funcion: funcion        ;  Tipo: char
+________________________________________________________________________________________
+
+Listado de secuencias que no pertenecen a ninguna categoria lexica:
+
+Nro. de linea		Cadena/Caracter
+	28				      $
+	29				      @
+________________________________________________________________________________________
+
+Listado de Sentencias:
+
+Linea: 7  Sentencia: while 
+Linea: 12  Sentencia: if 
+Linea: 15  Sentencia: for 

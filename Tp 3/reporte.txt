@@ -1,0 +1,114 @@
+
+________________________________________________________________________________________
+
+Listado de Identificadores:
+
+Identificador: a  ;  Cantidad: 4 
+Identificador: b  ;  Cantidad: 4 
+Identificador: decimal2  ;  Cantidad: 1 
+Identificador: decimal  ;  Cantidad: 1 
+Identificador: hexa  ;  Cantidad: 1 
+Identificador: main  ;  Cantidad: 1 
+Identificador: max  ;  Cantidad: 3 
+Identificador: MAYOR  ;  Cantidad: 2 
+Identificador: n1  ;  Cantidad: 4 
+Identificador: n2  ;  Cantidad: 4 
+Identificador: octal  ;  Cantidad: 1 
+Identificador: printf  ;  Cantidad: 2 
+Identificador: real2  ;  Cantidad: 1 
+Identificador: real  ;  Cantidad: 1 
+Identificador: scanf  ;  Cantidad: 1 
+________________________________________________________________________________________
+
+Listado de Literal Cadena:
+
+Literal cadena: "Ingrese dos numeros enteros: "  ;  Longitud: 29 
+Literal cadena: "El mayor entre %d y %d es %d\n"  ;  Longitud: 30 
+________________________________________________________________________________________
+
+Listado de palabras reservadas:
+
+Palabra Reservada: int
+Palabra Reservada: void
+Palabra Reservada: int
+Palabra Reservada: int
+Palabra Reservada: int
+Palabra Reservada: int
+Palabra Reservada: int
+Palabra Reservada: int
+Palabra Reservada: float
+Palabra Reservada: char
+Palabra Reservada: char
+Palabra Reservada: return
+Palabra Reservada: int
+Palabra Reservada: int
+Palabra Reservada: int
+Palabra Reservada: if
+Palabra Reservada: return
+Palabra Reservada: else
+Palabra Reservada: return
+________________________________________________________________________________________
+
+Listado de enteros octales:
+
+Entero Octal: 0271  ;  Valor decimal: 185 
+________________________________________________________________________________________
+
+Listado de enteros hexadecimales:
+
+Entero Hexadecimal: 0xA21B  ;  Valor decimal: 2204187 
+________________________________________________________________________________________
+
+Listado de enteros decimales:
+
+Entero Decimal: 41234
+Entero Decimal: 312
+Total acumulado: 41546
+________________________________________________________________________________________
+
+Listado de numeros reales:
+
+Numero real	   Parte Entera	    Parte Mantisa
+   1.77							1				0.77
+   .1							0				0.10
+________________________________________________________________________________________
+
+Listado de constantes caracteres:
+
+Orden		Constante
+  1.       'b'
+  2.       'z'
+________________________________________________________________________________________
+
+Listado de Operadores o Caracteres de Puntuacion:
+
+Operador o caracter: ()  ;  Cantidad: 7 
+Operador o caracter: {}  ;  Cantidad: 2 
+Operador o caracter: ,  ;  Cantidad: 9 
+Operador o caracter: ;  ;  Cantidad: 16 
+Operador o caracter: &  ;  Cantidad: 2 
+Operador o caracter: =  ;  Cantidad: 9 
+Operador o caracter: >  ;  Cantidad: 1 
+________________________________________________________________________________________
+
+Listado de Comentarios:
+
+Comentario de Una linea:
+//hola
+
+Comentario de Multiples lineas:
+/*
+comentario largo
+*/
+
+Comentario de Una linea:
+/*Comentario de una linea*/
+
+________________________________________________________________________________________
+
+Listado de Cadenas o Caracteres no Reconocidos:
+
+Nro. de linea		Cadena/Caracter
+    16	              0
+________________________________________________________________________________________
+

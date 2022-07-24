@@ -1,0 +1,105 @@
+
+________________________________________________________________________________________
+
+Listado de Variables:
+
+Linea: 3   Identificador: string    ;  Tipo: char*  
+Linea: 4   Identificador: j         ;  Tipo: int  
+Linea: 6   Identificador: a         ;  Tipo: int  
+Linea: 7   Identificador: a         ;  Tipo: char*  
+Linea: 10  Identificador: b         ;  Tipo: int  
+Linea: 10  Identificador: c         ;  Tipo: int  
+Linea: 10  Identificador: c         ;  Tipo: int  
+Linea: 12  Identificador: nombre1   ;  Tipo: char*  
+Linea: 13  Identificador: nombre2   ;  Tipo: char*  
+Linea: 15  Identificador: asd       ;  Tipo: char*  
+Linea: 17  Identificador: notas     ;  Tipo: int  
+Linea: 39  Identificador: d         ;  Tipo: int  
+Linea: 43  Identificador: e         ;  Tipo: int  
+Linea: 50  Identificador: e         ;  Tipo: int  
+Linea: 61  Identificador: a         ;  Tipo: int  
+Linea: 61  Identificador: b         ;  Tipo: int  
+________________________________________________________________________________________
+
+Listado de Funciones:
+
+
+Linea: 14    Funcion: pi             Tipo: float          Cantidad de parametros: 2
+Parametros:
+Nombre: longitud            Tipo: int 
+Nombre: perimetro           Tipo: int 
+
+Linea: 26    Funcion: sumar          Tipo: int            Cantidad de parametros: 2
+Parametros:
+Nombre: p                   Tipo: int 
+Nombre: b                   Tipo: int 
+
+Linea: 28    Funcion: dividir        Tipo: float          Cantidad de parametros: 2
+Parametros:
+Nombre: real1               Tipo: float 
+Nombre: real2               Tipo: float 
+
+Linea: 37    Funcion: main           Tipo: int            Cantidad de parametros: 1
+Parametros:
+Nombre: a                   Tipo: int 
+________________________________________________________________________________________
+
+Listado de secuencias que no pertenecen a ninguna categoria lexica:
+
+Nro. de linea		Cadena/Caracter
+	63				      @
+________________________________________________________________________________________
+
+Listado de Sentencias:
+
+Linea: 44				Sentencia: while 
+Linea: 49				Sentencia: if 
+Linea: 52				Sentencia: for 
+
+________________________________________________________________________________________
+
+-------------------------------------Errores Semanticos-------------------------------------
+
+Doble declaracion de variable:
+
+Nombre: a              Linea: 7 
+Nombre: c              Linea: 10 
+Nombre: e              Linea: 50 
+Nombre: a              Linea: 61 
+Nombre: b              Linea: 61 
+
+________________________________________________________________________________________
+
+Error de tipos:
+
+Linea: 4      El identificador string de tipo char* no es operable
+
+________________________________________________________________________________________
+
+Listado de Identificadores No Declarados:
+
+Linea: 4   Identificador: s
+
+________________________________________________________________________________________
+
+Listado de errores de tipos en funciones:
+
+En la funcion "pi", se esperaba un identificador de tipo int pero se encontro al identificador asd de tipo  char* 
+En la funcion "dividir", se esperaba un identificador de tipo float pero se encontro al identificador nombre1 de tipo  char* 
+En la funcion "dividir", se esperaba un identificador de tipo float pero se encontro al identificador nombre2 de tipo  char* 
+
+________________________________________________________________________________________
+
+Listado de errores de falta de parametros en funciones:
+
+en la funcion sumar se esperaban 2  identificadores, pero se econtraron solo 1 
+
+________________________________________________________________________________________
+
+Listado de errores de sobra de parametros en funciones:
+
+en la funcion sumar solo se esperaban 2  identificadores, pero se econtraron con 3 
+
+-------------------------------------Errores Sintacticos-------------------------------------
+
+Hubo errores sintacticos en las lineas: 11, 11, 11, 16, 18, 29, 34, 61, 61, 61, 61, 63, 63, 
